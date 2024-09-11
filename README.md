@@ -176,4 +176,5 @@ else:
 ![image](https://github.com/user-attachments/assets/56b95266-f361-4e96-9bcd-ec187bceb719)
 
 
-Write your result here
+## RESULT:
+Thus, the reinforcement learning agent successfully learns an optimal policy for navigating the environment, improving its decisions through iterations.
