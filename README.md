@@ -123,7 +123,7 @@ mean_return_pi_1 = mean_return(env, pi_1)
 success_prob_pi_2 = probability_success(env, pi_2, goal_state=goal_state)
 mean_return_pi_2 = mean_return(env, pi_2)
 ```
-```
+```python
 def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
     prev_V = np.zeros(len(P), dtype=np.float64)
     # Write your code here to evaluate the given policy
